@@ -102,15 +102,7 @@ Just simply because they  are the first ones, and thus might be more desirable t
 But after those first 20 items, the price goes down.
 
 ### Image attributions for base images from Wikimedia Commons:
-* https://upload.wikimedia.org/wikipedia/commons/d/da/Justin_Bieber_in_2015.jpg
-* https://commons.wikimedia.org/wiki/File:Elon_Musk_2015.jpg
-* https://commons.wikimedia.org/wiki/File:Michael_J._Saylor.png
-* https://commons.wikimedia.org/wiki/File:Vitalik_Buterin_TechCrunch_London_2015_(cropped).jpg
-* https://commons.wikimedia.org/wiki/File:Gary_Vaynerchuk_public_domain.jpg
-* https://commons.wikimedia.org/wiki/File:Kim_Kardashian_portrait_2009.jpg
-* https://commons.wikimedia.org/wiki/File:KBryant8.jpg
-* https://commons.wikimedia.org/wiki/File:Lady_Gaga_(30358885287).jpg
-* https://commons.wikimedia.org/wiki/File:Britney_Spears_2,_2011.jpg
+- https://commons.wikimedia.org/wiki/File:Elon_Musk_2015.jpg
 
 ## Roadmap and ideas of upcoming features.
 * Reduce delay between tweet publications and NFT minting.
