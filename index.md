@@ -104,7 +104,7 @@ AND within the description of each minted NFT.
 We have set an intentional pricing ladder, setting a high
 price on the first 20 items of each NFT collection. 
 
-Just simply because they  are the first ones, and thus might be more desirable than the rest.
+Just simply because they are the first ones, and thus might be more desirable than the rest.
 But after those first 20 items, the price goes down.
 
 ### Image attributions of base images from Wikimedia Commons:
