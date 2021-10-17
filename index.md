@@ -1,20 +1,20 @@
 # Live Quote collections (NFT tokens derived from tweets)
 
 ## Introduction
-The Live Quotes NFT collections follow one specific Twitter account, and
+The Live Quotes NFT collections follow one specific Twitter account each, and
 mint digital image NFTs derived from tweets from those accounts, as follows:
 
-1. each NFT is derived from ONE specific tweet, and is minted within one hour (often sooner) than the tweet publication.
+1. each NFT is derived from ONE specific tweet, and is minted within one hour (often sooner) of the tweet publication.
 2. the chosen NFT image style and properties is derived from the tweet text.
 
 This creates a one-to-one mapping between each tweet and the corresponding minted NFT item,
 as both WHEN an NFT is minted and WHAT it contains, is actually determined by/derived from the tweet.
 
 Important: these collections are not sanctioned by either Twitter or the Twitter accounts. 
-Thus, ownership of the NFTs in the collections do NOT in any way imply ownership of the tweets.
+Thus, ownership of NFTs in the collections do NOT in any way imply ownership of the tweets.
 
 
-## Example, how it works
+## A walkthrough example
 1. On december 24, 2022, Elon Musk tweets "Merry Christmas!"
 2. Within an hour, the tweet has triggered the minting of a new NFT in the "Elon Live Quotes" NFT collection.
 4. An image of Elon Musk is selected as the base image for the NFT.
@@ -30,8 +30,10 @@ Thus, ownership of the NFTs in the collections do NOT in any way imply ownership
 
 
 ## Current NFT collections:
-- [Elon Live Quotes](https://opensea.io/collection/elon-live-quotes)
-
+- [Elon Musk Live Quotes](https://opensea.io/collection/elon-live-quotes)
+- [Justin Bieber Live Quotes](https://opensea.io/collection/bieber-live-quotes)
+- [Vitalik Buterin Live Quotes](https://opensea.io/collection/vitalik-live-quotes)
+- [Gary Vaynerchuk Live Quotes](https://opensea.io/collection/garyvee-live-quotes)
 
 ## FAQ
 
