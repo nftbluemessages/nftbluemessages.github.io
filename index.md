@@ -21,8 +21,8 @@ Thus, ownership of NFTs in the collections do NOT in any way imply ownership of 
 5. There are 5000 possible AI-based styles that can be applied to an image. Using the "Merry Christmas!" tweet text as a pseudorandom seed, this results in the style 300 being applied to the image.
 6. The pseudorandom seed also determines that the image should be rendered in grayscale, and flipped vertically.
 7. The base image of Elon Musk is rendered with AI-style 300, and then rendered in grayscale, and flipped vertically.
-8. The NFT is minted. It contains:
-   * the Tweet account name, timestamp of the original tweet, and a partial quote of the tweet text as title.
+8. The NFT is minted, with:
+   * a timestamp of the original tweet and a partial quote of the tweet text, as the NFT name.
    * the AI-rendered image.
    * properties indicating what style was used, and that the image was rendered in grayscale, and flipped. 
    * a link to the original tweet in the description. 
@@ -30,10 +30,14 @@ Thus, ownership of NFTs in the collections do NOT in any way imply ownership of 
 
 
 ## Current NFT collections:
+Below are the initial NFT collections, where each one follows the corresponding Twitter account.
+
 - [Elon Musk Live Quotes](https://opensea.io/collection/elon-live-quotes)
 - [Justin Bieber Live Quotes](https://opensea.io/collection/bieber-live-quotes)
 - [Vitalik Buterin Live Quotes](https://opensea.io/collection/vitalik-live-quotes)
 - [Gary Vaynerchuk Live Quotes](https://opensea.io/collection/garyvee-live-quotes)
+
+A few more collections will be added soon.
 
 ## FAQ
 
