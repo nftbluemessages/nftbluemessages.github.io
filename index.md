@@ -30,7 +30,7 @@ Thus, ownership of the NFTs in the collections do NOT in any way imply ownership
 10. Hopefully, someone buys the NFT, as he/she thinks it's will be interesting/fun to own the NFT associated with that particular tweet.
 
 ## Current NFT collections:
-* https://opensea.io/collection/elon-live-quotes
+* [Elon Live Quotes](https://opensea.io/collection/elon-live-quotes)
 
 
 ## FAQ
