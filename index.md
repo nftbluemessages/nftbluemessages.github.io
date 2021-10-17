@@ -27,10 +27,10 @@ Thus, ownership of the NFTs in the collections do NOT in any way imply ownership
    * properties indicating what style was used, and that the image was rendered in grayscale, and flipped. 
    * a link to the original tweet in the description. 
 9. The NFT is listed on sale.
-10. Hopefully, someone buys the NFT, as he/she thinks it's will be interesting/fun to own the NFT associated with that particular tweet.
+
 
 ## Current NFT collections:
-* [Elon Live Quotes](https://opensea.io/collection/elon-live-quotes)
+- [Elon Live Quotes](https://opensea.io/collection/elon-live-quotes)
 
 
 ## FAQ
