@@ -56,7 +56,7 @@ For instance:
 
 ### The AI-styled images are lazy/shoddy work, so why should I care about this?
 Most of the work in implemented this NFT collection has not been centered in the 
-NFT artwork itself, but rather in concept itself, of live-creating NFTs derived from posted tweets.
+NFT artwork itself, but rather in the concept of live-creating NFTs derived from posted tweets.
 Having said that, the roadmap at the bottom of this page DOES contain plans to enhance the image generation, 
 so this should improve over time.
 
@@ -107,8 +107,11 @@ price on the first 20 items of each NFT collection.
 Just simply because they  are the first ones, and thus might be more desirable than the rest.
 But after those first 20 items, the price goes down.
 
-### Image attributions for base images from Wikimedia Commons:
+### Image attributions of base images from Wikimedia Commons:
 - https://commons.wikimedia.org/wiki/File:Elon_Musk_2015.jpg
+- https://upload.wikimedia.org/wikipedia/commons/d/da/Justin_Bieber_in_2015.jpg
+- https://commons.wikimedia.org/wiki/File:Vitalik_Buterin_TechCrunch_London_2015_(cropped).jpg
+- https://commons.wikimedia.org/wiki/File:Gary_Vaynerchuk_public_domain.jpg
 
 ## Roadmap and ideas of upcoming features.
 * Reduce delay between tweet publications and NFT minting.
